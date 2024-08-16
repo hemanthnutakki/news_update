@@ -24,20 +24,7 @@ Before using this script, ensure you have the following:
 - An API key for the News API. You can get it by signing up at [News API](https://newsapi.org/).
 
 ## Installation
-
-1. Clone the repository or download the script file.
-
-    ```bash
-    git clone https://github.com/yourusername/repo.git
-    ```
-
-2. Navigate to the project directory.
-
-    ```bash
-    cd repo
-    ```
-
-3. Install the required Python packages using pip.
+Install the required Python packages using pip.
 
     ```bash
     pip install requests
